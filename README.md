@@ -27,6 +27,7 @@ Start by cloning the project to your local machine:
 
 ```bash
 git clone https://github.com/Aboelsaud/apartment-real-state.git
+cd apartment-real-state
 ```
 
 ### 2. Build and Start with Docker Compose
